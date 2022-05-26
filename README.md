@@ -11,4 +11,4 @@ Our project is about house sales in house sales in King County, which includes S
 2. Create new data with select columns
 3. Clean DataFrame
 4. Connect to local database
-5. Use pandas to load csv converted DataFrame into database
+5. Use pandas to load csv converted DataFrame into pgAdmin database
