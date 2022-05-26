@@ -1,6 +1,6 @@
 # ETL-Project-
 
-Our project is about house sales in house sales in King County, which includes Seattle from May 2014 to May 2015. Both datasets for our project are from Kaggle. 
+Our project is about house sales in King County, which includes Seattle from May 2014 to May 2015. Both datasets for our project are from Kaggle. 
 
 [kc_house_data](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 
